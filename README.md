@@ -1,1 +1,1 @@
-# QR-generator-React
+![](/public//qrdemo.gif)
